@@ -34,6 +34,6 @@ To reproduce the results in this project, follow these steps:
 Download the competition dataset from Kaggle and extract it into the data directory. </br>
 Open Jupyter Notebook or JupyterLab and navigate to the notebooks directory. </br>
 Run the notebooks: </br>
-01_data_exploration.ipynb: explore the dataset and visualize its characteristics. </br>
+time-series-tps-eda-xgb-simplified.ipynb: explore the dataset and visualize its characteristics. </br>
 ## Credits
 This project was created by Abdul Rehman. The dataset was provided by Kaggle as part of the Book Sales Forecasting competition. Some code snippets and ideas were borrowed from the Kaggle community and other online sources, which are cited in the notebooks.
